@@ -8,6 +8,7 @@ Boundary Canadian map  created in OpenStreetMap using leaflet, BS 4 and Jquery.
 
  ## Leaflet GeoJson format.
  ##### for Canada boundary canada.js file on this repository /Data folder
+```
  var CanData = {"type":"FeatureCollection","features":[
 {"type":
 "Feature","id":"CAN",
@@ -28,7 +29,7 @@ var ProvData =   {
        "rank": 4,
        "population": 4067175,
        "capital": "Edmonton",
-       "Description": "Gimme espresso bars are found in New York City and Upstate New York."
+       "Description": "Alberta."
      },
      "geometry": {
        "type": "Point",
@@ -36,7 +37,7 @@ var ProvData =   {
      }
    },
    {
-   
+   ```
   ### Plugins 
   - leaflet-search
   - laeftlet-Icon.Glyp
