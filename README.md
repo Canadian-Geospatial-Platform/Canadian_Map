@@ -1,7 +1,7 @@
 # Canadian_Map
-Boundary Canadian map  created in openmapstreet using leaflet, BS 4 and Jquery.
+Boundary Canadian map  created in OpenStreetMap using leaflet, BS 4 and Jquery.
 
-## Map Image Created using OpenMapstret and Leaflet js library.
+## Map Image Created using  OpenStreetMap and Leaflet js library.we can show any kind of Geospatial Information with leaflet just need to have that information in Geojson format.
 
 ![Image of Map](https://github.com/Canadian-Geospatial-Platform/Canadian_Map/blob/master/img/map.png)
 
@@ -47,3 +47,5 @@ var ProvData =   {
 * https://docs.mapbox.com/mapbox.js/plugins/#leaflet-draw
 * https://www.openstreetmap.org
 * https://leafletjs.com/
+
+
