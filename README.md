@@ -7,7 +7,7 @@ Boundary Canadian map  created in OpenStreetMap using leaflet, BS 4 and Jquery.
 
 
  ## Leaflet GeoJson format.
- ##### for Canada boundary canada.js file on this repository /Data folder
+ ### for Canada boundary canada.js file on this repository /Data folder
 ```
  var CanData = {"type":"FeatureCollection","features":[
 {"type":
@@ -15,8 +15,9 @@ Boundary Canadian map  created in OpenStreetMap using leaflet, BS 4 and Jquery.
 "properties":{"name":"Canada"},
 "geometry":{"type":"MultiPolygon",
 "coordinates":[[[[-63.6645,46.55001],[-62.9393,46.41587],[-62.01208,46.44314],[-62.50391,46.03339],[-62.87433,45.96818],[-64.1428,46.39265],[-64.39261,46.72747],[-64.01486,47.03601],[-63.6645,46.55001]]]..... continue with more data
-
-###### for Provinces points and information e.js
+   ```
+### for Canadian Provinces points and information I create the file e.js is in /data folder
+   ```
 var ProvData =   {
  "type": "FeatureCollection",
  "features": [
